@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">FragmentTutorial</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="country">
+        <item>India</item>
+        <item>USA</item>
+        <item>Mexico</item>
+    </string-array>
+    <string-array name="india">
+        <item>Cricket</item>
+        <item>Chess</item>
+        <item>Badminton</item>
+        <item>Field Hockey</item>
+        <item>Football</item>
+        <item>Tennis</item>
+        <item>Gilli-danda</item>
+        <item>Golf</item>
+    </string-array>
+    <string-array name="usa">
+        <item>Baseball</item>
+        <item>Football</item>
+        <item>Hockey</item>
+        <item>Basketball</item>
+        <item>Soccer</item>
+        <item>Golf</item>
+        <item>Skateboarding</item>
+        <item>Golf</item>
+    </string-array>
+    <string-array name="mexico">
+        <item>Football</item>
+        <item>Boxing</item>
+        <item>Baseball</item>
+        <item>Charreria</item>
+        <item>Bullfighting</item>
+        <item>Basque Pelota</item>
+    </string-array>
+    <string name="select">Select Country</string>
+
+</resources>
